@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-DEVICE_PATH := device/samsung/a12
+DEVICE_PATH := device/samsung/a12/recovery
 
 # Release name
 PRODUCT_RELEASE_NAME := a12
