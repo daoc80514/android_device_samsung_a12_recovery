@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/samsung/a12
+DEVICE_PATH := device/samsung/a12/recovery
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
